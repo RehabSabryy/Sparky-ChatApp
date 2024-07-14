@@ -1,0 +1,7 @@
+.attachmentIcon {
+    right: 6%;
+    cursor: pointer;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  

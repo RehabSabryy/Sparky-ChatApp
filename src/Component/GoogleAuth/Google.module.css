@@ -1,0 +1,14 @@
+.ggogleSignIn {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.googleSignIn::before,
+.googleSignIn::after {
+    display: inline-block;
+    content: "";
+    border-top: .1rem solid rgb(117, 112, 112);
+    width: 30%;
+    margin: 0 1.5rem;
+    transform: translateY(-1rem);
+}
